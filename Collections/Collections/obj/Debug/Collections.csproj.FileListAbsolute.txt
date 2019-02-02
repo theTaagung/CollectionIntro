@@ -1,0 +1,7 @@
+C:\Users\Atul\source\repos\Collections\Collections\bin\Debug\Collections.exe.config
+C:\Users\Atul\source\repos\Collections\Collections\bin\Debug\Collections.exe
+C:\Users\Atul\source\repos\Collections\Collections\bin\Debug\Collections.pdb
+C:\Users\Atul\source\repos\Collections\Collections\obj\Debug\Collections.csprojAssemblyReference.cache
+C:\Users\Atul\source\repos\Collections\Collections\obj\Debug\Collections.csproj.CoreCompileInputs.cache
+C:\Users\Atul\source\repos\Collections\Collections\obj\Debug\Collections.exe
+C:\Users\Atul\source\repos\Collections\Collections\obj\Debug\Collections.pdb
